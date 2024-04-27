@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harivignesh G</h1>
+<!--<h1 align="center">Hi 👋, I'm Harivignesh G</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harivigneshg&label=Profile%20views&color=0e75b6&style=flat" alt="harivigneshg" /> </p>
 
@@ -10,7 +10,49 @@
 - 📫 How to reach me: **harivigneshganesh@gmail.com**
 
 </p>
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<p align="center">
+
+
+</p> -->
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+   
+  Hi 👋, I'm Harivignesh G 
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://harrivignesh.vercel.app" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"alt="harrivignesh"/>
+ </a>
+ <a href="https://www.linkedin.com/in/harivigneshg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harrivignesh"/>
+ </a>
+ 
+ <a href="https://twitter.com/harivigneshG" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/harrivignesh" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="harrivignesh" />
+ </a> 
+ <a href="https://facebook.com/hari.vignesh.77398/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="harrivignesh"  />
+  </a> 
+</p>
+<br />
+
+
 
 
 
