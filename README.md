@@ -9,6 +9,8 @@
 - 🌱 Love to writing code and learning new features
 - 📫 How to reach me: **harivigneshganesh@gmail.com**
 
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
 </p>
 
 
