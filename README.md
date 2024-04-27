@@ -9,7 +9,7 @@
 - 🌱 Love to writing code and learning new features
 - 📫 How to reach me: **harivigneshganesh@gmail.com**
 
-<h2> Skills </h2>
+##Skills
 
 </p>
 
