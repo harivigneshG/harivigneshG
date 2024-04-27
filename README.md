@@ -15,22 +15,9 @@
 
 </p> -->
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
-        </samp>
-</h3>
 
 
-<p align="center"> 
-  <samp>
-   
-  Hi 👋, I'm Harivignesh G 
-    <br>
-    <br>
-  </samp>
-</p>
+<h1 align="center">Hi 👋, I'm Harivignesh G</h1>
 
 <p align="center">
  <a href="https://harrivignesh.vercel.app" target="blank">
